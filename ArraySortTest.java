@@ -78,7 +78,7 @@ public class ArraySortTest {
 	
 	@Test
 	/*
-	 * Property 2
+	 * Property 3
 	 * Arrays should stay sorted when sort is used
 	 * on it a second time.
 	 */
